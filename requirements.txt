@@ -1,0 +1,13 @@
+Pillow>=10.0
+requests>=2.31
+geopy>=2.4
+tkintermapview>=1.30
+pyinstaller>=6.0
+streamlit
+numpy
+pandas
+plotly
+scikit-learn
+xgboost
+openpyxl
+xlrd
